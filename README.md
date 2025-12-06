@@ -1,8 +1,8 @@
 # 🌐 ИИ-ассистент для компании по наружной рекламе  
 *Проект в рамках интенсива по prompt engineering*
 
-ссылка на проект: @grand_reklama_bot
----
+ссылка на проект: [@grand_reklama_bot
+---](https://docs.google.com/document/d/1egbZCZI9v7S1pUyWFmZtujEoH_pqy6e1Lx4hcHDZhBA/edit?tab=t.jhdtd0ipcvdp)
 
 ## 📌 Краткое описание
 
